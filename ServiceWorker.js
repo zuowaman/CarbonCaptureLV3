@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-CarbonCapture-2.0";
+const cacheName = "DefaultCompany-CarbonCapture-2.0.1";
 const contentToCache = [
     "Build/WebGlLV3.loader.js",
     "Build/WebGlLV3.framework.js",
